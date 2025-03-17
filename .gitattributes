@@ -1,10 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.cs linguist-detectable
-*.csproj linguist-detectable
-*.unity linguist-detectable
-*.meta linguist-detectable
-
-*.shader linguist-vendored
-*.json linguist-vendored
-*.dll linguist-vendored
