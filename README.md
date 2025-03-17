@@ -1,0 +1,5 @@
+![Main_menu](https://github.com/user-attachments/assets/cb1c141a-1519-45a6-aaa0-b9a8b352fb91)
+![Game](https://github.com/user-attachments/assets/b141ce74-ee2c-4a51-8631-a3219047f539)
+![Menu](https://github.com/user-attachments/assets/bac2e4a4-275b-46d2-b3fa-210e1a74005a)
+![Options](https://github.com/user-attachments/assets/b84c84e8-9fc2-4655-91aa-2db311fcd740)
+![Credits](https://github.com/user-attachments/assets/7a4e3f09-52fb-450d-80b1-e00a96869c55)
